@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fiona Samuel 👋</h1>
 
 <p align="center">
-  <em>CS Undergraduate @ SVPCET Nagpur · Building at the intersection of ML, MLOps & Full Stack</em>
+  <em>CS Undergraduate @ SVPCET Nagpur · Building at the intersection of ML, MLOps & Automation </em>
 </p>
 
 <p align="center">
