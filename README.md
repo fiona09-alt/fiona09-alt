@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&width=435&lines=ML+Engineer+in+the+making;MLOps+%2B+Automation+enthusiast;Flutter+%7C+FastAPI+%7C+Python;Learning.+Building.+Improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&width=435&lines=ML+Engineer+in+the+making;MLOps+%2B+Automation+enthusiast;Flutter+%7C+Python;Learning.+Building.+Improving." alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 - 🎓 2nd year CS student at SVPCET, Nagpur
 - 🔭 Currently building **AI-powered developer tools**
-- 🌱 Learning **FastAPI · Docker · LLM APIs · MLOps**
+- 🌱 Learning **LLM APIs · MLOps · ML**
 - 💬 Background in **Flutter + Firebase + Python**
 - 🎯 Target: ML Engineer + MLOps + Full Stack hybrid
 - 📍 Nagpur, Maharashtra, India
@@ -38,8 +38,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
